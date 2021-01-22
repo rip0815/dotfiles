@@ -1,0 +1,2 @@
+set -gx ANSIBLE_STDOUT_CALLBACK yaml
+set -gx ANSIBLE_DIFF_ALWAYS true
